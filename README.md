@@ -1,4 +1,4 @@
-# **[Download Game Here](https://drive.google.com/file/d/10Wcblxg3UJqL5JkD0W0APXRVxCYhyCcZ/view?usp=sharing)**
+# **[Click Here to Download Game](https://drive.google.com/file/d/10Wcblxg3UJqL5JkD0W0APXRVxCYhyCcZ/view?usp=sharing)**
 # Tribiana-Text-RPG-Game
 A simple text-based fantasy game where you create a character, choose a race and class, and battle a randomly generated monster. Built with Python.
 
